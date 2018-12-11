@@ -294,7 +294,7 @@ font-size:0.7em;
     display: flex;
   }
   #nav ul li{
-    padding:7px;
+    padding:11px 7px;
   }
   .logo{
     flex-basis: 20%;
